@@ -8,7 +8,7 @@
  */
 class DatabaseManager
 {
-    //We may change here.
+    //Change here
     private static $username = "testuser";
     private static $password = "testpass";
 
@@ -19,12 +19,9 @@ class DatabaseManager
 
     /*
      * Default constructor
-     * Since we are doing singleton database,
-     * We can't let them create object.
      */
     private function __construct()
     {
-        //Since this is a singleton pattern.
         //This will be empty.
     }
 
