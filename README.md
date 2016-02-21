@@ -1,5 +1,11 @@
 # Oracle Database Manager
 With this script you can manage Oracle Database.
+All you need is changing the username and password in the file.
+
+```php
+private static $username = "testuser";
+private static $password = "testpass";
+```
 
 # Usage
 
