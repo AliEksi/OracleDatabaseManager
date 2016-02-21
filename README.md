@@ -1,4 +1,4 @@
-# OracleDatabaseManager
+# Oracle Database Manager
 With this script you can manage Oracle Database.
 
 # Usage
